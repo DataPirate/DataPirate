@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-```md
 I’m Charmi, a Data Engineer based in the United States.
 
 I mostly work on building and improving lakehouse pipelines and data quality controls, using SQL + Python (PySpark) with ADF/Databricks and Delta Lake.  
@@ -23,6 +22,4 @@ A Bit About Me
 How to reach me
 * LinkedIn: https://www.linkedin.com/in/agrawalcharmi  
 * Email: charmi.agrwl@gmail.com
-
-```
 
