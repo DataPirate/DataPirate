@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**DataPirate/DataPirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```md
+I’m Charmi, a Data Engineer based in the United States.
 
-Here are some ideas to get you started:
+I mostly work on building and improving lakehouse pipelines and data quality controls, using SQL + Python (PySpark) with ADF/Databricks and Delta Lake.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Tools & Tech
+* Azure Data Factory (ADF), Azure Databricks, Delta Lake/Lakehouse  
+* SQL, Python (PySpark)  
+* Tableau, KPI analysis, A/B testing  
+* Git/Bitbucket, CI/CD, Jira  
+* Data profiling, reconciliation, anomaly detection, root-cause analysis, governance basics (access controls, lineage practices)
+
+---
+A Bit About Me
+* I’m a tea person ☕ (team chai). 
+* I’m into anime - Solo Leveling is a favorite. 
+* I love escape rooms and a good murder mystery book.
+
+---
+How to reach me
+* LinkedIn: https://www.linkedin.com/in/agrawalcharmi  
+* Email: charmi.agrwl@gmail.com
+
+```
+
